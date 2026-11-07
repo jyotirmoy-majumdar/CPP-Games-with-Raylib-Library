@@ -1,4 +1,4 @@
 *.exe
-*.dll
 *.dsym
 main
+*.dll
