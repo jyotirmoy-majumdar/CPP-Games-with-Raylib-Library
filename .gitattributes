@@ -1,2 +1,1 @@
-*.mk linguist-vendored
-Makefile linguist-vendored
+**/Makefile linguist-detectable=false
